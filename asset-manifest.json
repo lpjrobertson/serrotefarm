@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/serrotefarm/static/css/main.211448b8.css",
+    "main.js": "/serrotefarm/static/js/main.d0f8ccc4.js",
+    "static/js/453.acfd5805.chunk.js": "/serrotefarm/static/js/453.acfd5805.chunk.js",
+    "static/media/farm.png": "/serrotefarm/static/media/farm.56308500ccffdd9d6c4f.png",
+    "static/media/im5.jpeg": "/serrotefarm/static/media/im5.12ad282d4b77a3564167.jpeg",
+    "static/media/im1.jpeg": "/serrotefarm/static/media/im1.684786f4d2c77379522c.jpeg",
+    "static/media/im2.jpeg": "/serrotefarm/static/media/im2.215a8ff452852edd0d64.jpeg",
+    "static/media/mara.png": "/serrotefarm/static/media/mara.93d7163ffb55258fe321.png",
+    "static/media/im3.jpeg": "/serrotefarm/static/media/im3.fa34d32f37887b7d52fb.jpeg",
+    "static/media/colheita.webp": "/serrotefarm/static/media/colheita.8eba05255727f32a2b68.webp",
+    "static/media/chuva.webp": "/serrotefarm/static/media/chuva.398237385b4d6415d8eb.webp",
+    "static/media/Logo2.png": "/serrotefarm/static/media/Logo2.e3e5a825e62f8b72a898.png",
+    "static/media/poucasnuvens.jpeg": "/serrotefarm/static/media/poucasnuvens.c51c35da77780939576f.jpeg",
+    "static/media/nublado.webp": "/serrotefarm/static/media/nublado.4387b0835a47d22936f2.webp",
+    "static/media/sol.webp": "/serrotefarm/static/media/sol.cd88ca7b31a13dae1f90.webp",
+    "index.html": "/serrotefarm/index.html",
+    "main.211448b8.css.map": "/serrotefarm/static/css/main.211448b8.css.map",
+    "main.d0f8ccc4.js.map": "/serrotefarm/static/js/main.d0f8ccc4.js.map",
+    "453.acfd5805.chunk.js.map": "/serrotefarm/static/js/453.acfd5805.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.211448b8.css",
+    "static/js/main.d0f8ccc4.js"
+  ]
+}
