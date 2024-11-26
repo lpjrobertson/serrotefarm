@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/serrotefarm/static/css/main.211448b8.css",
-    "main.js": "/serrotefarm/static/js/main.d0f8ccc4.js",
+    "main.js": "/serrotefarm/static/js/main.54b3eec0.js",
     "static/js/453.acfd5805.chunk.js": "/serrotefarm/static/js/453.acfd5805.chunk.js",
     "static/media/farm.png": "/serrotefarm/static/media/farm.56308500ccffdd9d6c4f.png",
     "static/media/im5.jpeg": "/serrotefarm/static/media/im5.12ad282d4b77a3564167.jpeg",
@@ -17,11 +17,11 @@
     "static/media/sol.webp": "/serrotefarm/static/media/sol.cd88ca7b31a13dae1f90.webp",
     "index.html": "/serrotefarm/index.html",
     "main.211448b8.css.map": "/serrotefarm/static/css/main.211448b8.css.map",
-    "main.d0f8ccc4.js.map": "/serrotefarm/static/js/main.d0f8ccc4.js.map",
+    "main.54b3eec0.js.map": "/serrotefarm/static/js/main.54b3eec0.js.map",
     "453.acfd5805.chunk.js.map": "/serrotefarm/static/js/453.acfd5805.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.211448b8.css",
-    "static/js/main.d0f8ccc4.js"
+    "static/js/main.54b3eec0.js"
   ]
 }
